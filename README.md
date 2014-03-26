@@ -10,7 +10,7 @@ was written in a way to respect your privacy.
 
 Source code is licensed under Apache2. 
 http://www.apache.org/licenses/LICENSE-2.0.txt
-
+  
 The source code of this app is licensed under the
 Apache License, Version 2.0 (the "License"); you may not
 use this work except in compliance with the License. You
