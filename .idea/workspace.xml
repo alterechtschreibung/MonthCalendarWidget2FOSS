@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="visible" value="false" />
+      </GlobalState>
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20db854d-aecd-4278-a9ca-8cd8c5351e87" name="Default" comment="- little test&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="MonthCalendarWidget.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="MonthCalendarWidget" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DonationsActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tobiaskuban/android/monthcalendarwidgetfoss/DonationsActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="13" selection-start="1227" selection-end="1227" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="2115">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="58" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1050">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values-de/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="0" selection-start="2734" selection-end="2734" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="960">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="21" selection-start="2629" selection-end="2629" vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="945">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GooglePlayDescription.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GooglePlayDescription.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="510">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="donations__fragment_paypal.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/donations__fragment_paypal.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="0" selection-start="794" selection-end="1033" vertical-scroll-proportion="0.0" vertical-offset="91" max-vertical-offset="495">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="0" selection-start="832" selection-end="832" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="960">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DonationsFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tobiaskuban/android/monthcalendarwidgetfoss/donation/DonationsFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="39" selection-start="2006" selection-end="2006" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="8025">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$USER_HOME$/IDEAKeystores/MonthCalendarWidget2/TobiasKubanKeystore.jks" />
+    <option name="KEY_ALIAS" value="TobiasKuban" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Tobias Kuban" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/res/layout/donations_activity.xml" />
+        <option value="$PROJECT_DIR$/src/com/tobiaskuban/android/monthcalendarwidget/MyActivity.java" />
+        <option value="$PROJECT_DIR$/LICENSE" />
+        <option value="$PROJECT_DIR$/res/layout/donations__fragment.xml" />
+        <option value="$PROJECT_DIR$/src/com/tobiaskuban/android/monthcalendarwidget/MonthCalendarWidget.java" />
+        <option value="$PROJECT_DIR$/res/layout/cell_header.xml" />
+        <option value="$PROJECT_DIR$/res/layout/cell_day_this_month.xml" />
+        <option value="$PROJECT_DIR$/res/layout/cell_today.xml" />
+        <option value="$PROJECT_DIR$/res/layout/cell_day.xml" />
+        <option value="$PROJECT_DIR$/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/TODO.txt" />
+        <option value="$PROJECT_DIR$/res/layout/play_activity.xml" />
+        <option value="$PROJECT_DIR$/src/com/tobiaskuban/android/monthcalendarwidget/PlayActivity.java" />
+        <option value="$PROJECT_DIR$/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/src/com/tobiaskuban/android/monthcalendarwidget/DonationsActivity.java" />
+        <option value="$PROJECT_DIR$/.idea/artifacts/MonthCalendarWidget2.xml" />
+        <option value="$PROJECT_DIR$/src/com/tobiaskuban/android/monthcalendarwidget/donation/DonationsFragment.java" />
+        <option value="$PROJECT_DIR$/src/com/tobiaskuban/android/monthcalendarwidgetfoss/donation/DonationsFragment.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-de/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-bg/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-ca/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-cs/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-da-rDK/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-el/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-es/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-fi/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-fr/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-he/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-hr/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-hu/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-id/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-it/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-iw-rIL/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-ja/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-nl/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-pl/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-pt/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-ru/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-sl-rSI/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-sr/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-sv/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-tr/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-uk/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-vi/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-vi-rVN/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-zh-rCN/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-zh-rHK/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-zh-rTW/strings.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1004" />
+    <option name="height" value="734" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MonthCalendarWidget2FOSS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MonthCalendarWidget2FOSS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MonthCalendarWidget2FOSS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MonthCalendarWidget2FOSS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MonthCalendarWidget2FOSS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MonthCalendarWidget2FOSS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MonthCalendarWidget2FOSS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="AndroidTargetDevices" value="0123456789ABCDEF" />
+    <property name="ExportedModule" value="MonthCalendarWidget2FOSS" />
+    <property name="ExportedApkPath" value="$PROJECT_DIR$/MonthCalendarWidget2FOSS.apk" />
+    <property name="AndroidRunProguardForReleaseBuild" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tobiaskuban.android.monthcalendarwidget" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/res/layout" />
+      <recent name="$PROJECT_DIR$/res/values-zh-rTW" />
+      <recent name="$PROJECT_DIR$/res/values-zh-rHK" />
+      <recent name="$PROJECT_DIR$/res/values-zh-rCN" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tobiaskuban.android.monthcalendarwidget.donation" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.tobiaskuban.android.monthcalendarwidget" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.MonthCalendarWidget2FOSS">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="do_nothing" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MonthCalendarWidget2FOSS" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="MonthCalendarWidget2FOSS" />
+      <option name="ACTIVITY_CLASS" value="com.tobiaskuban.android.monthcalendarwidgetfoss.DonationsActivity" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.MonthCalendarWidget2FOSS" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20db854d-aecd-4278-a9ca-8cd8c5351e87" name="Default" comment="" />
+      <created>1384878780358</created>
+      <updated>1384878780358</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit&#10;">
+      <created>1395696462229</created>
+      <updated>1395696462229</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit&#10;">
+      <created>1395697736695</created>
+      <updated>1395697736695</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit&#10;">
+      <created>1395734352154</created>
+      <updated>1395734352154</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New version&#10;">
+      <created>1395734607647</created>
+      <updated>1395734607647</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New version&#10;- added some more artwork">
+      <created>1395773880179</created>
+      <updated>1395773880179</updated>
+    </task>
+    <task id="LOCAL-00006" summary="New version&#10;- added some more artwork&#10;">
+      <created>1395774098211</created>
+      <updated>1395774098211</updated>
+    </task>
+    <task id="LOCAL-00007" summary="New version&#10;- added some more artwork&#10;">
+      <created>1395774109403</created>
+      <updated>1395774109404</updated>
+    </task>
+    <task id="LOCAL-00008" summary="-just changes the README file&#10;">
+      <created>1395792395373</created>
+      <updated>1395792395373</updated>
+    </task>
+    <task id="LOCAL-00009" summary="- little test">
+      <created>1395838016596</created>
+      <updated>1395838016596</updated>
+    </task>
+    <task id="LOCAL-00010" summary="- little test&#10;">
+      <created>1395839329495</created>
+      <updated>1395839329495</updated>
+    </task>
+    <task id="LOCAL-00011" summary="- little test&#10;">
+      <created>1395840120106</created>
+      <updated>1395840120106</updated>
+    </task>
+    <task id="LOCAL-00012" summary="- little test&#10;">
+      <created>1395840224335</created>
+      <updated>1395840224335</updated>
+    </task>
+    <task id="LOCAL-00013" summary="- little test&#10;">
+      <created>1395840424747</created>
+      <updated>1395840424747</updated>
+    </task>
+    <task id="LOCAL-00014" summary="- little test&#10;">
+      <created>1395840433764</created>
+      <updated>1395840433764</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1004" height="734" extended-state="4" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29107982" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32394367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28638497" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.207" sideWeight="0.67676765" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31768388" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32907662" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="Initial commit&#10;" />
+    <MESSAGE value="New version&#10;" />
+    <MESSAGE value="New version&#10;- added some more artwork" />
+    <MESSAGE value="New version&#10;- added some more artwork&#10;" />
+    <MESSAGE value="-just changes the README file&#10;" />
+    <MESSAGE value="- little test" />
+    <MESSAGE value="- little test&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="- little test&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TODO.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="36" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="28" selection-start="1920" selection-end="1920" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tobiaskuban/android/monthcalendarwidgetfoss/donation/DonationsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="60" selection-start="1806" selection-end="1806" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="7650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="52" selection-start="1854" selection-end="1854" vertical-scroll-proportion="0.46310434" vertical-offset="493" max-vertical-offset="1185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/donations__strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="18" selection-start="181" selection-end="181" vertical-scroll-proportion="0.20949721" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="14" selection-start="131" selection-end="131" vertical-scroll-proportion="0.10869565" vertical-offset="0" max-vertical-offset="3000" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-fr/donations__strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="4" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.5882353" vertical-offset="0" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-bg/donations__strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="382">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-de/donations__strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="103" selection-start="265" selection-end="265" vertical-scroll-proportion="0.16806723" vertical-offset="0" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/donations_activity.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="376" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/donations__fragment.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="250" selection-end="250" vertical-scroll-proportion="0.25641027" vertical-offset="15" max-vertical-offset="840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TODO.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="36" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tobiaskuban/android/monthcalendarwidgetfoss/DonationsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="13" selection-start="1227" selection-end="1227" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="2115">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tobiaskuban/android/monthcalendarwidgetfoss/donation/DonationsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="39" selection-start="2006" selection-end="2006" vertical-scroll-proportion="0.0" vertical-offset="568" max-vertical-offset="7725">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GooglePlayDescription.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-bg/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.6775956" vertical-offset="277" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-ca/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="126" selection-start="2805" selection-end="2805" vertical-scroll-proportion="0.40983605" vertical-offset="375" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-da-rDK/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.67391306" vertical-offset="308" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-cs/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.7295082" vertical-offset="258" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-el/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.39440992" vertical-offset="398" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-fi/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.5124224" vertical-offset="360" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-fr/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="126" selection-start="2815" selection-end="2815" vertical-scroll-proportion="0.61490685" vertical-offset="327" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-he/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.72670805" vertical-offset="291" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-hu/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.5372671" vertical-offset="352" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-hr/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.5993789" vertical-offset="332" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-id/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.3757764" vertical-offset="404" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-it/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="126" selection-start="2787" selection-end="2787" vertical-scroll-proportion="0.8198758" vertical-offset="261" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-iw-rIL/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.10248447" vertical-offset="492" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-ja/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.4099379" vertical-offset="393" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-nl/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.81055903" vertical-offset="264" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-pl/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="126" selection-start="2796" selection-end="2796" vertical-scroll-proportion="0.32608697" vertical-offset="420" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-pt/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="126" selection-start="2796" selection-end="2796" vertical-scroll-proportion="0.30745342" vertical-offset="426" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-ru/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.41925466" vertical-offset="390" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-sl-rSI/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.26708075" vertical-offset="439" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-sr/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.41925466" vertical-offset="390" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-sv/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="126" selection-start="2792" selection-end="2792" vertical-scroll-proportion="0.54658383" vertical-offset="349" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-tr/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.18012422" vertical-offset="467" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-uk/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.13664596" vertical-offset="481" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-vi/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.3757764" vertical-offset="404" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-vi-rVN/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.42236024" vertical-offset="389" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-zh-rCN/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.67391306" vertical-offset="308" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-zh-rHK/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.36956522" vertical-offset="406" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-zh-rTW/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="118" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.14596273" vertical-offset="478" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-es/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="126" selection-start="2815" selection-end="2815" vertical-scroll-proportion="0.54658383" vertical-offset="349" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/donations__fragment_paypal.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="794" selection-end="1033" vertical-scroll-proportion="0.0" vertical-offset="91" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-de/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="2734" selection-end="2734" vertical-scroll-proportion="0.0" vertical-offset="367" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="21" selection-start="2629" selection-end="2629" vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdroid/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="60" selection-start="393" selection-end="393" vertical-scroll-proportion="0.29661018" vertical-offset="0" max-vertical-offset="2310" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="389" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="832" selection-end="832" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="58" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>MonthCalendarWidget2FOSS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MonthCalendarWidget2FOSS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 16 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

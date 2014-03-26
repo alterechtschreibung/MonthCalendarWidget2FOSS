@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- About, should always appear as action button -->
+    <item android:id="@+id/action_about"
+          android:icon="@drawable/ic_action_about"
+          android:title="@string/action_about"
+          android:showAsAction="always" />
+</menu>

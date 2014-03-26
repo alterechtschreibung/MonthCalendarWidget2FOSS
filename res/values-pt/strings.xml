@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Month Calendar Widget</string>
+    <string name="previous_month">Previous month</string>
+    <string name="next_month">Next month</string>
+
+    <!-- Intents -->
+    <string name="show_location_services">Acesso à localização</string>
+    <string name="show_google_apps_location_settings">Def. de localização para aplicações Google</string>
+    <string name="show_sync_settings">Sincronizar</string>
+    <string name="show_backup_restore_settings">Cópia de segurança e reposição</string>
+    <string name="show_google_play_settings">Google Play Definições</string>
+    <!-- Controls -->
+    <string name="action_about">Acerca</string>
+    <string name="about_text">"\"Month Calendar Widget\" is a simplistic, cute widget that delivers you a quick overview of the respective month and was written in a way to respect your privacy.
+
+        The source code of this app is licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this work except in compliance with the License. You may obtain a copy of the License at \nhttp://www.apache.org/licenses/LICENSE-2.0 \nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+        The launcher icons, the widget_preview.png and widget_preview_svg.svg are hand crafted by Tobias Kuban (www.tobiaskuban.com). All rights reserved. You may not remove or alter this copyright notice. You may not use or modify these icons without written consent of the author. You may, however, distribute the unaltered icon as part of this unaltered work without charge.
+
+        The other icons used in this app are taken from \nhttp://developer.android.com/downloads/design/Android_Design_Icons_20120814.zip \nAccording to the included notice file, you may use these without restriction to develop your apps and to use in your apps.
+
+        To download the source code of this app please visit \nhttps://github.com/alterechtschreibung/MonthCalendarWidget2FOSS
+        "
+    </string>
+    <string name="intro_text">"\"Month Calendar Widget\" is a simplistic, cute widget that delivers you a quick overview of the respective month and was written in a way to respect your privacy.
+        "
+    </string>
+    <string name="intro_text_donate">"\"Month Calendar Widget\" is a simplistic, cute widget that delivers you a quick overview of the respective month and was written in a way to respect your privacy.
+
+        If you like the widget, please consider a donation."</string>
+    <string name="donate">Donate</string>
+
+    <string-array name="donation_google_catalog_values">
+        <item>1 Euro</item>
+        <item>2 Euro</item>
+        <item>3 Euro</item>
+        <item>5 Euro</item>
+        <item>8 Euro</item>
+        <item>13 Euro</item>
+    </string-array>
+
+    <string name="donation_paypal_item">Donation</string>
+</resources>

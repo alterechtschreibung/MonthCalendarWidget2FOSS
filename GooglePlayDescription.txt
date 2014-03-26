@@ -1,0 +1,29 @@
+English:
+"Month Calendar Widget" is a simplistic, cute widget that delivers you a quick overview of the respective month and was written in a way to respect your privacy.
+- No Ads
+- No Spam
+- No Spyware
+- No Notifications
+- No Viruses
+- No Trojans
+
+This app has no connection to any calendar like Google Calendar - so it will not show your appointments. 
+
+To use modern functions of recent Android versions, this app will not work on very old versions of Android. 
+
+simplistic, cute widget that delivers a quick overview of the respective month
+**********************************************************************************************************
+deutsch:
+"Monatskalander Widget" ist ein sachlich, modern gehaltenes Widget, welches einen schnellen Überblick über den betreffenden Monat gewährt. Besonderer Wert wurde bei der Entwicklung auf die Achtung der Privatsphäre der Nutzer gelegt.
+- Keine Werbung
+- Kein Spam
+- Keine Spionage
+- Keine Benachrichtigungen
+- Keine Viren 
+- Keine Trojaner 
+
+Diese Anwendung ist nicht mit anderen Kalenderanwendungen wie Google Calendar verbunden, weshalb beispielsweise keine anstehenden Termine angezeigt werden.  
+
+Um moderne Funktionen neuerer Android-Versionen nutzen zu können, ist diese Anwendung leider inkompatibel mit sehr alten Versionen des Systems.
+
+sachliches, modernes Widget, welches einen schnellen Überblick des Monats gibt

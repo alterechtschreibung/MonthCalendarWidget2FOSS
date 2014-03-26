@@ -1,0 +1,70 @@
+<!--
+  Copyright 2013 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<!--    edited by Tobias Kuban     -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- 8 -->  <!-- was -12dp, added layout_marginTop -->
+    <LinearLayout
+        android:id="@+id/month_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="-16dp"
+        android:layout_marginTop="-16dp"
+        android:orientation="horizontal">
+
+        <!-- 56 -->
+        <ImageButton
+            android:id="@+id/prev_month_button"
+            style="?android:borderlessButtonStyle"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/previous_month"
+            android:src="@drawable/ic_action_collapse" />
+
+        <Button
+            android:id="@+id/month_label"
+            style="?android:borderlessButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:fontFamily="sans-serif-condensed"
+            android:gravity="center"
+            android:textColor="@color/foreground_full"
+            android:textSize="20sp" /> <!-- 28 -->
+
+        <!-- 56 -->
+        <ImageButton
+            android:id="@+id/next_month_button"
+            style="?android:borderlessButtonStyle"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/next_month"
+            android:src="@drawable/ic_action_expand" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/calendar"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" />
+
+</LinearLayout>

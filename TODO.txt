@@ -1,0 +1,5 @@
+ 
+This is a list of ideas, which might be implemented in the future:
+- setting to choose, whether week starts with Monday or Sunday
+- highlight of holidays / red-letter days
+- further languages and translations
