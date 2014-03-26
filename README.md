@@ -3,7 +3,7 @@ www.tobiaskuban.com
 =========================================================
 
 A Month Calendar widget for Android 4.1+
-
+ 
 "Month Calendar Widget" is a simplistic, cute widget that 
 delivers you a quick overview of the respective month and 
 was written in a way to respect your privacy.
