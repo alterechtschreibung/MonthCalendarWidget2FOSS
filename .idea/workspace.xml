@@ -24,11 +24,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.tobiaskuban.android.monthcalendarwidgetfoss" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20db854d-aecd-4278-a9ca-8cd8c5351e87" name="Default" comment="- some bug fixing&#10;">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tobiaskuban/android/monthcalendarwidgetfoss/MonthCalendarWidget.java" afterPath="$PROJECT_DIR$/src/com/tobiaskuban/android/monthcalendarwidgetfoss/MonthCalendarWidget.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MonthCalendarWidget2FOSS.iml" afterPath="$PROJECT_DIR$/MonthCalendarWidget2FOSS.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+    <list default="true" id="20db854d-aecd-4278-a9ca-8cd8c5351e87" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MonthCalendarWidget.iws" />
@@ -221,6 +217,9 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -676,7 +675,13 @@
       <option name="project" value="LOCAL" />
       <updated>1395936735100</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="- some bug fixes&#10;">
+      <created>1425546977514</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1425546977514</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -739,7 +744,8 @@
     <MESSAGE value="- little test&#10;" />
     <MESSAGE value="- some more pics&#10;" />
     <MESSAGE value="- some bug fixing&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="- some bug fixing&#10;" />
+    <MESSAGE value="- some bug fixes&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="- some bug fixes&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
